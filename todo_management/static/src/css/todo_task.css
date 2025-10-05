@@ -1,0 +1,10 @@
+.todo_task_list thead th {
+    background-color: #007bff !important;
+    color: #fff !important;
+    font-weight: bold;
+    text-align: center !important;
+}
+
+.todo_task_list tbody {
+    text-align: center !important;
+}
